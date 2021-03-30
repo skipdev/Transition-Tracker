@@ -8,12 +8,27 @@ export default {
         screens: {
           TabOne: {
             screens: {
-              TabOneScreen: 'one',
+              TransLine: 'one',
             },
           },
           TabTwo: {
             screens: {
               TabTwoScreen: 'two',
+            },
+          },
+          TabThree: {
+            screens: {
+              TabThreeScreen: 'three',
+            },
+          },
+          TabFour: {
+            screens: {
+              TabFourScreen: 'four',
+            },
+          },
+          TabFive: {
+            screens: {
+              TabFiveScreen: 'five',
             },
           },
         },
