@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TransLine.iml" filepath="$PROJECT_DIR$/.idea/TransLine.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/uni/assignment-tracker/.idea/assignment-tracker.iml" filepath="$USER_HOME$/Documents/uni/assignment-tracker/.idea/assignment-tracker.iml" />
     </modules>
   </component>
 </project>
